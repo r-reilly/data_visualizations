@@ -6,6 +6,8 @@
 - tableau
 - seaborn
 
-## Example: 
+## Examples: 
 
 ![](climate_change_fires.gif)
+
+![](agriculture_census_insights.gif)
