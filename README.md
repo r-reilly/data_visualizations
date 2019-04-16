@@ -10,4 +10,4 @@
 
 ![](climate_change_fires.gif)
 
-![](agriculture_census_insights.gif)
+![](ag_census_insights.gif)
