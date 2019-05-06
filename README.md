@@ -5,6 +5,9 @@
 - geopandas
 - tableau
 - seaborn
+- bokeh
+- altair
+- plotly
 
 ## Examples: 
 
