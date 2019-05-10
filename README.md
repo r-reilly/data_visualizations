@@ -9,8 +9,7 @@
 - altair
 - plotly
 
-## Examples: 
+## Example: 
 
 ![](climate_change_fires.gif)
 
-![](ag_census_insights.gif)
