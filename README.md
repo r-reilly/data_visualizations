@@ -10,6 +10,7 @@
 - plotly
 
 ## Example: 
+![](hobbit.gif)
 
 ![](climate_change_fires.gif)
 
